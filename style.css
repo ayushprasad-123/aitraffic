@@ -1,0 +1,19 @@
+.heading
+{
+font-size: 18px;
+}
+
+#he
+{
+font-size: 23px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px lightgrey;
+    border-radius: 10px;
+}
